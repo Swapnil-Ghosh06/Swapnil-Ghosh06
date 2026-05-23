@@ -42,15 +42,15 @@ production-quality tools that read like funded startup products.
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swapnil-Ghosh06&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil-Ghosh06&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Swapnil-Ghosh06&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil-Ghosh06&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
 </p>
 
 ---
 
 ## 🔥 Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Swapnil-Ghosh06&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Swapnil-Ghosh06&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
