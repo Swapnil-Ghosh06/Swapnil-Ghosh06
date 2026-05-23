@@ -1,0 +1,62 @@
+# Hey, I'm Swapnil 👋
+
+![Profile Views](https://komarev.com/ghpvc/?username=Swapnil-Ghosh06&color=blue&style=flat-square)
+
+I build things at the intersection of AI systems and product — fast-shipped,
+production-quality tools that read like funded startup products.
+
+1st-year B.Tech CSE (AI/ML) @ Jain University · Aiming for MLE @ FAANG by 2030.
+
+---
+
+## 🔧 What I'm building right now
+
+- **BrokeBoy** — Student expense tracker, dark glassmorphism UI, ₹ formatting, budget analytics
+- **SAGE EdTech** — Full EdTech platform with Pomodoro, streak system & video learning
+- **RAG Chatbot** — Chunk scoring, out-of-scope detection, debug panel
+- Grinding DSA daily via Apna College SIGMA 8.0
+
+---
+
+## 🚀 Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| **BrokeBoy** | Student expense tracker — dark glassmorphism, ₹ formatting, budget analytics | React · Node · MongoDB · shadcn/ui |
+| **SAGE EdTech** | Full EdTech platform — Pomodoro, streaks, video learning | React · shadcn/ui |
+| **RAG Chatbot** | Chunk scoring, out-of-scope detection, debug panel | JS · Groq · Llama 3.1 |
+
+---
+
+## 🛠 Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Swapnil-Ghosh06&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil-Ghosh06&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🔥 Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Swapnil-Ghosh06&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+## 📬 Let's connect
+
+Open to internships, collabs & hackathon teammates.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghoshswapnil/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swaapnil.ghosh@gmail.com)
