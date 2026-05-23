@@ -1,4 +1,4 @@
-# Hey, I'm Swapnil 👋
+# Hey, I'm Swapnil Ghosh👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Swapnil-Ghosh06&color=blue&style=flat-square)
 
