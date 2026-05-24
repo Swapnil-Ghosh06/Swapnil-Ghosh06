@@ -1,4 +1,6 @@
-# Hey, I'm Swapnil Ghosh👋
+# Hey, I'm Swapnil 👋
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Swapnil-Ghosh06&color=blue&style=flat-square)
 
