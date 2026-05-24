@@ -32,6 +32,14 @@ production-quality tools that read like funded startup products.
 
 ## 🛠 Stack
 
+## 🛠 Stack
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,ts,js,python,nodejs,mongodb,tailwind,threejs,git,figma,vite&theme=dark" />
+  </a>
+</p>
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
