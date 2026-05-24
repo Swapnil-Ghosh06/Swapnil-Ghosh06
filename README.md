@@ -1,6 +1,6 @@
 # Hey, I'm Swapnil 👋
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180"/>
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="180"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Swapnil-Ghosh06&color=blue&style=flat-square)
 
@@ -32,7 +32,6 @@ production-quality tools that read like funded startup products.
 
 ## 🛠 Stack
 
-
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,ts,js,python,nodejs,mongodb,tailwind,threejs,git,figma,vite&theme=dark" />
@@ -40,12 +39,14 @@ production-quality tools that read like funded startup products.
 </p>
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Swapnil-Ghosh06&theme=tokyonight" height="160"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Swapnil-Ghosh06&theme=tokyonight" height="160"/>
 </p>
+
 ---
 
 ## 🔥 Streak
