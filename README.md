@@ -9,6 +9,8 @@ production-quality tools that read like funded startup products.
 
 1st-year B.Tech CSE (AI/ML) @ Jain University · Aiming for MLE @ FAANG by 2030.
 
+<br clear="right"/>
+
 ---
 
 ## 🔧 What I'm building right now
