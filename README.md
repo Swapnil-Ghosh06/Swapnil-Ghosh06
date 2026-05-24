@@ -32,7 +32,6 @@ production-quality tools that read like funded startup products.
 
 ## 🛠 Stack
 
-## 🛠 Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
