@@ -1,4 +1,4 @@
-# Hey, I'm Swapnil 👋
+# Hey, I'm Swapnil
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
 
 
@@ -17,6 +17,8 @@ production-quality tools that read like funded startup products.
 - **SAGE EdTech** — Full EdTech platform with Pomodoro, streak system & video learning
 - **RAG Chatbot** — Chunk scoring, out-of-scope detection, debug panel
 - Grinding DSA daily via Apna College SIGMA 8.0
+- A few other real exciting projectss
+
 
 ---
 
