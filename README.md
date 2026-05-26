@@ -1,4 +1,4 @@
-# Hey, I'm Swapnil
+# Hey, I'm Swapnil Ghosh :)
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
 
 
