@@ -12,7 +12,6 @@ production-quality tools that read like funded startup products.
 ---
 
 ## 🛰️ Mission Control
-
 > Building AI systems that behave like products, not demos.
 >
 > Current obsessions:
