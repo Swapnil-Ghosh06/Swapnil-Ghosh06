@@ -36,12 +36,19 @@ production-quality tools that read like funded startup products.
 ---
 
 ## 🛠 Stack
-
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,python,nodejs,mongodb,tailwind,threejs,git,figma,vite&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,ts,js,python,nodejs,fastapi,mongodb,tailwind,threejs,nextjs,git,figma,vite&theme=dark" />
   </a>
 </p>
+
+**AI / ML:** Groq · Llama 3.1 · RAG Pipelines · Prompt Engineering · NetworkX · Pandas · NumPy
+
+**Frontend:** React · Next.js 14 · Tailwind CSS · GSAP · Framer Motion · Three.js · Canvas API · D3 · Recharts · shadcn/ui · Lenis
+
+**Backend:** FastAPI · Node.js · Express.js · MongoDB Atlas · SQLite · Supabase · Slack Bots
+
+**Tools:** Git · Vercel · Netlify · Vite · Figma · Claude Code · Antigravity · Cursor
 
 ---
 
@@ -50,6 +57,7 @@ production-quality tools that read like funded startup products.
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Swapnil-Ghosh06&theme=tokyonight" height="160"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Swapnil-Ghosh06&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Swapnil-Ghosh06&theme=tokyonight&utcOffset=5.5" height="160"/>
 </p>
 
 ---
@@ -58,6 +66,7 @@ production-quality tools that read like funded startup products.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Swapnil-Ghosh06&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Swapnil-Ghosh06&theme=tokyo-night&hide_border=true&area=true)
 ---
 
 ## 📬 Let's connect
@@ -66,3 +75,14 @@ Open to internships, collabs & hackathon teammates.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghoshswapnil/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swaapnil.ghosh@gmail.com)
+
+---
+
+<div align="center">
+
+**Open to internships · hackathon teammates · collabs on anything ambitious**
+
+*"Ship first. Optimize later. Always be building."*
+
+</div>
+
