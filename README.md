@@ -11,6 +11,19 @@ production-quality tools that read like funded startup products.
 
 ---
 
+
+> ### 🛰️ Mission Control
+>
+> Building AI systems that behave like products, not demos.
+>
+> Current obsessions:
+> - Autonomous Agents
+> - Multi-Agent Systems
+> - Human-AI Interaction
+> - ML Engineering
+
+---
+
 ## ⚡ Currently Building
 
 | Project | Description | Status |
