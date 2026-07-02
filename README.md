@@ -56,10 +56,6 @@ production-quality tools that read like funded startup products.
 
 **AI / ML:** Groq · Llama 3.1 · RAG Pipelines · Prompt Engineering · NetworkX · Pandas · NumPy
 
-**Frontend:** React · Next.js 14 · Tailwind CSS · GSAP · Framer Motion · Three.js · Canvas API · D3 · Recharts · shadcn/ui · Lenis
-
-**Backend:** FastAPI · Node.js · Express.js · MongoDB Atlas · SQLite · Supabase · Slack Bots
-
 **Tools:** Git · Vercel · Netlify · Vite · Figma · Claude Code · Antigravity · Cursor
 
 ---
