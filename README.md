@@ -27,9 +27,10 @@ production-quality tools that read like funded startup products.
 
 | Project | Description | Status |
 |---|---|---|
+|🔍 **RepoLens** | zero-setup, fully serverless RAG extension that turns any GitHub repository into an interactive AI chat — right inside your browser. | `Completed and Deployed ↗ `|
 | 🤖 **GhostEmployee** | Autonomous AI task delegation via Slack + FastAPI agent — not a chatbot, a scheduler | `Active` |
-| 🌐 **PersonaNet / PolicySim** | 50 AI personas reacting to real-world events in a live social simulation | `Completed` |
-| 💸 **BrokeBoy** | Student expense tracker — dark glassmorphism, ₹ analytics | `Deployed ↗` |
+| 🌐 **PersonaNet / PolicySim** | 50 AI personas reacting to real-world events in a live social simulation | `Completed and Deployed ↗ ` |
+| 💸 **BrokeBoy** | Student expense tracker — dark glassmorphism, ₹ analytics | `Compeleted and Deployed ↗ ` |
 
 ---
 
