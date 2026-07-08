@@ -38,6 +38,7 @@ production-quality tools that read like funded startup products.
 
 | Project | What it does | Stack |
 |---|---|---|
+| **[Repo Lens](https://github.com/Swapnil-Ghosh06/REPO-LENS)** | Chat with any GitHub repository. Without leaving GitHub. |Python 3.11, FastAPI, Uvicorn, tree-sitter-languages, ChromaDB, Gemini text-embedding-004, Gemini 1.5 Flash, Chrome MV3, Vanilla JS, and HTML/CSS. | 
 | **[PersonaNet / PolicySim](https://personanet.vercel.app)** | 50 AI personas with emergent social dynamics responding to policy events | Next.js 14 · Groq Llama 3.1 · NetworkX · SQLite · FastAPI · GSAP · Lenis |
 | **[BrokeBoy](https://brokeboy.vercel.app)** | Student expense tracker — dark glassmorphism, ₹ formatting, budget analytics | React · Node · MongoDB · shadcn/ui |
 | **[GhostEmployee](https://github.com/Swapnil-Ghosh06)** | Full-stack AI task delegation with autonomous proactive scheduling — distinct from reactive LLM chat | FastAPI · Slack Bot · React Dashboard · GSAP · Live telemetry · CoWork terminal |
