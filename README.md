@@ -73,7 +73,7 @@ production-quality tools that read like funded startup products.
 ---
 
 ## 🔥 Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Swapnil-Ghosh06)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Swapnil-Ghosh06&theme=tokyo-night&hide_border=true&area=true)
