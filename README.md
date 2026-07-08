@@ -79,6 +79,10 @@ production-quality tools that read like funded startup products.
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Swapnil-Ghosh06&theme=tokyo-night&hide_border=true&area=true)
 ---
 
+![GitHub Contributions](https://vercel.app)
+
+---
+
 ## 📬 Let's connect
 
 Open to internships, collabs & hackathon teammates.
