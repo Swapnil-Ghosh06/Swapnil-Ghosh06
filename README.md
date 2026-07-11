@@ -56,7 +56,7 @@ production-quality tools that read like funded startup products.
   </a>
 </p>
 
-**AI / ML:** Groq · Llama 3.1 · RAG Pipelines · Prompt Engineering · NetworkX · Pandas · NumPy
+**AI / ML:** Groq · Llama 3.1 · RAG Pipelines · Prompt Engineering · NetworkX · Pandas · NumPy -
 
 **Tools:** Git · Vercel · Netlify · Vite · Figma · Claude Code · Antigravity · Cursor
 
