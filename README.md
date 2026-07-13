@@ -26,15 +26,15 @@ production-quality tools that read like funded startup products.
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🔍**[Repo Lens](https://github.com/Swapnil-Ghosh06/REPO-LENS)** | Chat with any GitHub repository. Without leaving GitHub. |Python 3.11, FastAPI, Uvicorn, tree-sitter-languages, ChromaDB, Gemini text-embedding-004, Gemini 1.5 Flash, Chrome MV3, Vanilla JS, and HTML/CSS. | 
+| 🔍 **[Repo Lens](https://github.com/Swapnil-Ghosh06/REPO-LENS)** | Chat with any GitHub repository. Without leaving GitHub. |Python 3.11, FastAPI, Uvicorn, tree-sitter-languages, ChromaDB, Gemini text-embedding-004, Gemini 1.5 Flash, Chrome MV3, Vanilla JS, and HTML/CSS. | 
 | 🌐 **[PersonaNet / PolicySim](https://personanet.vercel.app)** | 50 AI personas with emergent social dynamics responding to policy events | Next.js 14 · Groq Llama 3.1 · NetworkX · SQLite · FastAPI · GSAP · Lenis |
-| 💸**[BrokeBoy](https://brokeboy.vercel.app)** | Student expense tracker — dark glassmorphism, ₹ formatting, budget analytics | React · Node · MongoDB · shadcn/ui |
-| 🤖**[GhostEmployee](https://github.com/Swapnil-Ghosh06)** | Full-stack AI task delegation with autonomous proactive scheduling — distinct from reactive LLM chat | FastAPI · Slack Bot · React Dashboard · GSAP · Live telemetry · CoWork terminal |
-| 💡**[IdeaFlow — Startup Idea Validator](https://github.com/Swapnil-Ghosh06)** | Validates Startup Ideas | requestAnimationFrame loop · Lerp-based scroll smoothing · Pure vanilla JS |
-| 🔗**[LinkSnap — URL Management Platform](https://github.com/Swapnil-Ghosh06)** | URL management System | Zero-backend SPA: auth, per-user isolation, analytics, hash routing — all in localStorage |
-| 🚸**[Smart Traffic Controller](https://github.com/Swapnil-Ghosh06)** |  Interactive traffic simulation with lane logic and mode-based behaviour | React + Node + shadcn/ui |
-| 📚**SAGE EdTech** | Full EdTech platform — Pomodoro, streaks, video learning | React · shadcn/ui |
-| 🚂**RAG Chatbot** | Chunk scoring, out-of-scope detection, debug panel | Client-side RAG pipeline. Groq + Llama 3.1. Zero dependencies. Single HTML file |
+| 💸 **[BrokeBoy](https://brokeboy.vercel.app)** | Student expense tracker — dark glassmorphism, ₹ formatting, budget analytics | React · Node · MongoDB · shadcn/ui |
+| 🤖 **[GhostEmployee](https://github.com/Swapnil-Ghosh06)** | Full-stack AI task delegation with autonomous proactive scheduling — distinct from reactive LLM chat | FastAPI · Slack Bot · React Dashboard · GSAP · Live telemetry · CoWork terminal |
+| 💡 **[IdeaFlow — Startup Idea Validator](https://github.com/Swapnil-Ghosh06)** | Validates Startup Ideas | requestAnimationFrame loop · Lerp-based scroll smoothing · Pure vanilla JS |
+| 🔗 **[LinkSnap — URL Management Platform](https://github.com/Swapnil-Ghosh06)** | URL management System | Zero-backend SPA: auth, per-user isolation, analytics, hash routing — all in localStorage |
+| 🚸 **[Smart Traffic Controller](https://github.com/Swapnil-Ghosh06)** |  Interactive traffic simulation with lane logic and mode-based behaviour | React + Node + shadcn/ui |
+| 📚 **SAGE EdTech** | Full EdTech platform — Pomodoro, streaks, video learning | React · shadcn/ui |
+| 🚂 **RAG Chatbot** | Chunk scoring, out-of-scope detection, debug panel | Client-side RAG pipeline. Groq + Llama 3.1. Zero dependencies. Single HTML file |
 ---
 
 ## 🛠 Stack
