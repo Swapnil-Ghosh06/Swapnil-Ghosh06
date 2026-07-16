@@ -51,7 +51,7 @@ production-quality tools that read like funded startup products.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
 
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Swapnil-Ghosh06&theme=tokyonight" height="160"/>
