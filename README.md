@@ -26,7 +26,7 @@ production-quality tools that read like funded startup products.
 
 | Project | What it does | Additional Information |
 |---|---|---|
-| 🌿 **[EcoSphere-ESG](https://github.com/Swapnil-Ghosh06/ecosphere-esg)** | Enterprise ESG Management Platform | A full-stack, real-time ESG (Environmental, Social & Governance) compliance and gamification platform built for the Odoo Hackathon 2K26.|  
+| 🌿 **[EcoSphere-ESG](https://github.com/Swapnil-Ghosh06/ecosphere-esg)** | Enterprise ESG Management Platform | A full-stack, real-time ESG (Environmental, Social & Governance) compliance and gamification platform built for the Odoo Hackathon 2026.|  
 | 🔍 **[Repo Lens](https://github.com/Swapnil-Ghosh06/REPO-LENS)** | Chat with any GitHub repository. Without leaving GitHub. |Python 3.11, FastAPI, Uvicorn, tree-sitter-languages, ChromaDB, Gemini text-embedding-004, Gemini 1.5 Flash, Chrome MV3, Vanilla JS, and HTML/CSS. | 
 | 🌐 **[PersonaNet / PolicySim](https://personanet.vercel.app)** | 50 AI personas with emergent social dynamics responding to policy events | Next.js 14 · Groq Llama 3.1 · NetworkX · SQLite · FastAPI · GSAP · Lenis |
 | 💸 **[BrokeBoy](https://brokeboy.vercel.app)** | Student expense tracker — dark glassmorphism, ₹ formatting, budget analytics | React · Node · MongoDB · shadcn/ui |
