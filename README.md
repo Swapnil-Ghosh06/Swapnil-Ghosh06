@@ -13,7 +13,7 @@ production-quality tools that read like funded startup products.
 
 
 
----
+
 ## 🚀 Projects
 
 | Project | What it does | Additional Information |
