@@ -12,13 +12,13 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Swapnil-Ghosh06&color=B8860B&style=flat-square&label=PROFILE+VIEWS)
+<img src="https://komarev.com/ghpvc/?username=Swapnil-Ghosh06&color=B8860B&style=flat-square&label=PROFILE+VIEWS" height="22"/>
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-101010?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ghoshswapnil/)&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-101010?style=flat-square&logo=github&logoColor=white)](https://github.com/Swapnil-Ghosh06)&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Email-101010?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:swaapnil.ghosh@gmail.com)
+<a href="https://www.linkedin.com/in/ghoshswapnil/"><img src="https://img.shields.io/badge/LinkedIn-101010?style=for-the-badge&logo=linkedin&logoColor=0A66C2&logoWidth=24" height="42"/></a>&nbsp;&nbsp;
+<a href="https://github.com/Swapnil-Ghosh06"><img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=white&logoWidth=24" height="42"/></a>&nbsp;&nbsp;
+<a href="mailto:swaapnil.ghosh@gmail.com"><img src="https://img.shields.io/badge/Email-101010?style=for-the-badge&logo=gmail&logoColor=EA4335&logoWidth=24" height="42"/></a>
 
 </div>
 
@@ -76,46 +76,46 @@ I build AI systems that behave like **products**, not demos — fast-shipped, pr
 <br/>
 
 **Languages**
-<br/>
-![Python](https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=3776AB)
-![TypeScript](https://img.shields.io/badge/TypeScript-101010?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-101010?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=3776AB&logoWidth=28" height="48"/>
+<img src="https://img.shields.io/badge/TypeScript-101010?style=for-the-badge&logo=typescript&logoColor=3178C6&logoWidth=28" height="48"/>
+<img src="https://img.shields.io/badge/JavaScript-101010?style=for-the-badge&logo=javascript&logoColor=F7DF1E&logoWidth=28" height="48"/>
 
-<br/>
+<br/><br/>
 
 **Frontend**
-<br/>
-![React](https://img.shields.io/badge/React-101010?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-101010?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-101010?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![Vite](https://img.shields.io/badge/Vite-101010?style=for-the-badge&logo=vite&logoColor=646CFF)
-![Three.js](https://img.shields.io/badge/Three.js-101010?style=for-the-badge&logo=threedotjs&logoColor=white)
+<br/><br/>
+<img src="https://img.shields.io/badge/React-101010?style=for-the-badge&logo=react&logoColor=61DAFB&logoWidth=28" height="48"/>
+<img src="https://img.shields.io/badge/Next.js-101010?style=for-the-badge&logo=nextdotjs&logoColor=white&logoWidth=28" height="48"/>
+<img src="https://img.shields.io/badge/Tailwind-101010?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&logoWidth=28" height="48"/>
+<img src="https://img.shields.io/badge/Vite-101010?style=for-the-badge&logo=vite&logoColor=646CFF&logoWidth=28" height="48"/>
+<img src="https://img.shields.io/badge/Three.js-101010?style=for-the-badge&logo=threedotjs&logoColor=white&logoWidth=28" height="48"/>
 
-<br/>
+<br/><br/>
 
 **Backend &amp; Data**
-<br/>
-![Node.js](https://img.shields.io/badge/Node.js-101010?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![FastAPI](https://img.shields.io/badge/FastAPI-101010?style=for-the-badge&logo=fastapi&logoColor=009688)
-![MongoDB](https://img.shields.io/badge/MongoDB-101010?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-101010?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+<br/><br/>
+<img src="https://img.shields.io/badge/Node.js-101010?style=for-the-badge&logo=nodedotjs&logoColor=339933&logoWidth=28" height="48"/>
+<img src="https://img.shields.io/badge/FastAPI-101010?style=for-the-badge&logo=fastapi&logoColor=009688&logoWidth=28" height="48"/>
+<img src="https://img.shields.io/badge/MongoDB-101010?style=for-the-badge&logo=mongodb&logoColor=47A248&logoWidth=28" height="48"/>
+<img src="https://img.shields.io/badge/PostgreSQL-101010?style=for-the-badge&logo=postgresql&logoColor=4169E1&logoWidth=28" height="48"/>
 
-<br/>
+<br/><br/>
 
 **AI / ML**
-<br/>
-![Groq](https://img.shields.io/badge/Groq-101010?style=for-the-badge&logo=groq&logoColor=F55036)
-![Pandas](https://img.shields.io/badge/Pandas-101010?style=for-the-badge&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-101010?style=for-the-badge&logo=numpy&logoColor=013243)
+<br/><br/>
+<img src="https://img.shields.io/badge/Groq-101010?style=for-the-badge&logo=groq&logoColor=F55036&logoWidth=28" height="48"/>
+<img src="https://img.shields.io/badge/Pandas-101010?style=for-the-badge&logo=pandas&logoColor=150458&logoWidth=28" height="48"/>
+<img src="https://img.shields.io/badge/NumPy-101010?style=for-the-badge&logo=numpy&logoColor=013243&logoWidth=28" height="48"/>
 
-<br/>
+<br/><br/>
 
 **Tools**
-<br/>
-![Git](https://img.shields.io/badge/Git-101010?style=for-the-badge&logo=git&logoColor=F05032)
-![Vercel](https://img.shields.io/badge/Vercel-101010?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-101010?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Figma](https://img.shields.io/badge/Figma-101010?style=for-the-badge&logo=figma&logoColor=F24E1E)
+<br/><br/>
+<img src="https://img.shields.io/badge/Git-101010?style=for-the-badge&logo=git&logoColor=F05032&logoWidth=28" height="48"/>
+<img src="https://img.shields.io/badge/Vercel-101010?style=for-the-badge&logo=vercel&logoColor=white&logoWidth=28" height="48"/>
+<img src="https://img.shields.io/badge/Netlify-101010?style=for-the-badge&logo=netlify&logoColor=00C7B7&logoWidth=28" height="48"/>
+<img src="https://img.shields.io/badge/Figma-101010?style=for-the-badge&logo=figma&logoColor=F24E1E&logoWidth=28" height="48"/>
 
 <br/><br/>
 
@@ -145,10 +145,10 @@ I build AI systems that behave like **products**, not demos — fast-shipped, pr
 
 **Open to internships · hackathon teams · anything ambitious**
 
-<br/>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-101010?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ghoshswapnil/)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Say_Hi-101010?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:swaapnil.ghosh@gmail.com)
+<a href="https://www.linkedin.com/in/ghoshswapnil/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-101010?style=for-the-badge&logo=linkedin&logoColor=0A66C2&logoWidth=28" height="48"/></a>&nbsp;&nbsp;
+<a href="mailto:swaapnil.ghosh@gmail.com"><img src="https://img.shields.io/badge/Say_Hi-101010?style=for-the-badge&logo=gmail&logoColor=EA4335&logoWidth=28" height="48"/></a>
 
 <br/><br/>
 
