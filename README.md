@@ -14,21 +14,28 @@ production-quality tools that read like funded startup products.
 
 
 
-## 🚀 Projects
+## ›› Projects
 
-| Project | What it does | Additional Information |
-|---|---|---|
-| 🌿 **[EcoSphere-ESG](https://github.com/Swapnil-Ghosh06/ecosphere-esg)** | Enterprise ESG Management Platform | A full-stack, real-time ESG (Environmental, Social & Governance) compliance and gamification platform built for the Odoo Hackathon 2026.|  
-| 🔍 **[Repo Lens](https://github.com/Swapnil-Ghosh06/REPO-LENS)** | Chat with any GitHub repository. Without leaving GitHub. |Python 3.11, FastAPI, Uvicorn, tree-sitter-languages, ChromaDB, Gemini text-embedding-004, Gemini 1.5 Flash, Chrome MV3, Vanilla JS, and HTML/CSS. | 
-| 🌐 **[PersonaNet / PolicySim](https://personanet.vercel.app)** | 50 AI personas with emergent social dynamics responding to policy events | Next.js 14 · Groq Llama 3.1 · NetworkX · SQLite · FastAPI · GSAP · Lenis |
-| 💸 **[BrokeBoy](https://brokeboy.vercel.app)** | Student expense tracker — dark glassmorphism, ₹ formatting, budget analytics | React · Node · MongoDB · shadcn/ui |
-| 🤖 **[GhostEmployee](https://github.com/Swapnil-Ghosh06)** | Full-stack AI task delegation with autonomous proactive scheduling — distinct from reactive LLM chat | FastAPI · Slack Bot · React Dashboard · GSAP · Live telemetry · CoWork terminal |
-| 💡 **[IdeaFlow — Startup Idea Validator](https://github.com/Swapnil-Ghosh06)** | Validates Startup Ideas | requestAnimationFrame loop · Lerp-based scroll smoothing · Pure vanilla JS |
-| 🔗 **[LinkSnap — URL Management Platform](https://github.com/Swapnil-Ghosh06)** | URL management System | Zero-backend SPA: auth, per-user isolation, analytics, hash routing — all in localStorage |
-| 🚸 **[Smart Traffic Controller](https://github.com/Swapnil-Ghosh06)** |  Interactive traffic simulation with lane logic and mode-based behaviour | React + Node + shadcn/ui |
-| 📚 **SAGE EdTech** | Full EdTech platform — Pomodoro, streaks, video learning | React · shadcn/ui |
-| 🚂 **RAG Chatbot** | Chunk scoring, out-of-scope detection, debug panel | Client-side RAG pipeline. Groq + Llama 3.1. Zero dependencies. Single HTML file |
----
+<br/>
+
+<table>
+<tr><td width="26%"><b>🌿 EcoSphere-ESG</b></td><td>Real-time ESG compliance &amp; gamification platform — built for Odoo Hackathon 2026</td><td><sub>React 19 · TS · Node · Prisma · PostgreSQL</sub></td></tr>
+<tr><td><b>🔍 Repo Lens</b></td><td>Chat with any GitHub repo, without leaving GitHub</td><td><sub>FastAPI · ChromaDB · Gemini · Chrome MV3</sub></td></tr>
+<tr><td><b>🌐 PersonaNet / PolicySim</b></td><td>50 AI personas with emergent social dynamics reacting to policy events</td><td><sub>Next.js 14 · Groq Llama 3.1 · NetworkX</sub></td></tr>
+<tr><td><b>🤖 GhostEmployee</b></td><td>AI task delegation with autonomous, proactive scheduling — not reactive chat</td><td><sub>FastAPI · Slack Bot · React · GSAP</sub></td></tr>
+<tr><td><b>💸 BrokeBoy</b></td><td>Student expense tracker — dark glassmorphism, ₹ formatting</td><td><sub>React · Node · MongoDB · shadcn/ui</sub></td></tr>
+<tr><td><b>🚸 Smart Traffic Controller</b></td><td>Interactive traffic simulation with lane logic &amp; mode-based behaviour</td><td><sub>React · Node · shadcn/ui</sub></td></tr>
+<tr><td><b>💡 IdeaFlow</b></td><td>Awwwards-level startup idea validator</td><td><sub>Vanilla JS · rAF loop · lerp scroll</sub></td></tr>
+<tr><td><b>🔗 LinkSnap</b></td><td>Zero-backend URL shortener — auth &amp; analytics, all in localStorage</td><td><sub>Single-file HTML/JS</sub></td></tr>
+<tr><td><b>📚 SAGE EdTech</b></td><td>Full EdTech platform — Pomodoro, streaks, video learning</td><td><sub>React · shadcn/ui</sub></td></tr>
+<tr><td><b>🚂 RAG Chatbot</b></td><td>Client-side RAG pipeline — chunk scoring, out-of-scope detection</td><td><sub>Groq · Llama 3.1 · Zero-dep HTML</sub></td></tr>
+</table>
+
+<br/>
+
+<sub>🏆 2nd place — LOLgorithm 2026 (Team AKATSUKI) &nbsp;&nbsp;·&nbsp;&nbsp; 4 deployed projects — Vibeathon 2026</sub>
+
+<br/><br/>
 
 ## 🛠 Stack
 <p align="left">
