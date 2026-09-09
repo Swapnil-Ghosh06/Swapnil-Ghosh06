@@ -5,7 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Swapnil-Ghosh06&color=blue&style=flat-square)
 
 I build things at the intersection of AI systems and product — fast-shipped,
-production-quality tools that read like funded startup products........
+production-quality tools that read like funded startup products.......
 
 1st-year B.Tech CSE (AI/ML) @ Jain University · Aiming for MLE @ MANGO by 2030
 
