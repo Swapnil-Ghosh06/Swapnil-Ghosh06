@@ -1,81 +1,56 @@
-<div align="center">
+# Hey, I'm Swapnil Ghosh :)
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2500&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=500&lines=%24+whoami;swapnil-ghosh+%E2%80%94+ai+systems+builder" />
 
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=Swapnil-Ghosh06&color=blue&style=flat-square)
 
-<br/>
+I build things at the intersection of AI systems and product — fast-shipped,
+production-quality tools that read like funded startup products.
 
-```
-┌──────────────────────────────────────────────────────────┐
-│ swapnil@github                                            │
-│ ─────────────────────────────────────────────────────── │
-│ os        : India (Bengaluru, via Hosur)                  │
-│ program   : B.Tech CSE, AI & ML — Jain University         │
-│ class     : 2029                                          │
-│ shell     : bash / zsh                                    │
-│ editor    : VS Code + Antigravity CLI                     │
-│ os(dev)   : CachyOS Linux                                 │
-│ target    : ML Engineer @ top-tier lab, by 2030            │
-│ status    : 3 hackathon Grand Finales, in parallel        │
-└──────────────────────────────────────────────────────────┘
-```
+1st-year B.Tech CSE (AI/ML) @ Jain University · Aiming for MLE @ MANGO by 2030..
+
+---
+
+
+
+
+## ›› Projects
 
 <br/>
 
-## `$ cat mission.txt`
-
-I build AI/ML systems that behave like products, not demos — fast-shipped,
-production-quality tools that read like funded startups, not class assignments.
-
-<br/>
-
-## `$ git log --oneline ./currently`
-
-```
-a1c9f2e  (HEAD) drishti-ai        Grand Finalist — KSP × Hack2Skill Datathon 2026
-7e4b81d          crowdshield      Grand Master Round — TechNova: Igniting Brilliance S3
-2d90ac3          urban-furniture  Top 800 / 20,000 teams — Odoo Hackathon 2026 Grand Finale
-```
+<table>
+<tr><td width="26%"><b>🌿 EcoSphere-ESG</b></td><td>Real-time ESG compliance &amp; gamification platform — built for Odoo Hackathon 2026</td><td><sub>React 19 · TS · Node · Prisma · PostgreSQL</sub></td></tr>
+<tr><td><b>🔍 Repo Lens</b></td><td>Chat with any GitHub repo, without leaving GitHub</td><td><sub>FastAPI · ChromaDB · Gemini · Chrome MV3</sub></td></tr>
+<tr><td><b>🌐 PersonaNet / PolicySim</b></td><td>50 AI personas with emergent social dynamics reacting to policy events</td><td><sub>Next.js 14 · Groq Llama 3.1 · NetworkX</sub></td></tr>
+<tr><td><b>🤖 GhostEmployee</b></td><td>AI task delegation with autonomous, proactive scheduling — not reactive chat</td><td><sub>FastAPI · Slack Bot · React · GSAP</sub></td></tr>
+<tr><td><b>💸 BrokeBoy</b></td><td>Student expense tracker — dark glassmorphism, ₹ formatting</td><td><sub>React · Node · MongoDB · shadcn/ui</sub></td></tr>
+<tr><td><b>🚸 Smart Traffic Controller</b></td><td>Interactive traffic simulation with lane logic &amp; mode-based behaviour</td><td><sub>React · Node · shadcn/ui</sub></td></tr>
+<tr><td><b>💡 IdeaFlow</b></td><td>Awwwards-level startup idea validator</td><td><sub>Vanilla JS · rAF loop · lerp scroll</sub></td></tr>
+<tr><td><b>🔗 LinkSnap</b></td><td>Zero-backend URL shortener — auth &amp; analytics, all in localStorage</td><td><sub>Single-file HTML/JS</sub></td></tr>
+<tr><td><b>📚 SAGE EdTech</b></td><td>Full EdTech platform — Pomodoro, streaks, video learning</td><td><sub>React · shadcn/ui</sub></td></tr>
+<tr><td><b>🚂 RAG Chatbot</b></td><td>Client-side RAG pipeline — chunk scoring, out-of-scope detection</td><td><sub>Groq · Llama 3.1 · Zero-dep HTML</sub></td></tr>
+</table>
 
 <br/>
 
-## `$ ls ./projects`
+<sub>🏆 2nd place — LOLgorithm 2026 (Team AKATSUKI) &nbsp;&nbsp;·&nbsp;&nbsp; 4 deployed projects — Vibeathon 2026</sub>
 
-```
-🌿  ecosphere              ESG compliance + gamification · Frontend Lead, Odoo 2K26
-🏛️  drishti-ai             crime mapping + geo-trail analysis · KSP Datathon Grand Finalist
-🛡️  crowdshield            digital-twin crowd sim · TechNova S3 finalist
-🪑  urban-furniture        ERP + AI CFO copilot + voice-to-bill + 3D configurator
-🔎  repo-lens              chat with any GitHub repo, without leaving GitHub
-🌐  personanet             50 AI personas, emergent social dynamics on policy events
-💸  brokeboy               student expense tracker · dark glassmorphism, ₹ formatting
-✍️  scriptmind             ai handwriting replication · text → handwritten pdf
-🚸  smart-traffic-ctrl     interactive traffic sim · lane logic + mode-based behaviour
-💡  ideaflow               189-frame canvas animation · lerp-scroll idea validator
-🔗  linksnap               zero-backend url shortener · everything in localStorage
-📡  lidar-sim              raycasting point-cloud sim · 4-way intersection safety
-```
+<br/><br/>
 
-`🏆 2nd — LOLgorithm 2026   ·   4 shipped in a day — Vibeathon 2026   ·   selected — SIH 2025 (InternFox)`
+## 🛠 Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,ts,js,python,nodejs,fastapi,mongodb,tailwind,threejs,nextjs,git,figma,vite&theme=dark" />
+  </a>
+</p>
 
-<br/>
+**AI / ML:** Groq · Llama 3.1 · RAG Pipelines · Prompt Engineering · NetworkX · Pandas · NumPy -
 
-## `$ cat stack.json`
+**Tools:** Git · Vercel · Netlify · Vite · Figma · Claude Code · Antigravity · Cursor
 
-```json
-{
-  "languages":  ["python", "typescript", "javascript", "c++"],
-  "frontend":   ["react", "next.js", "tailwindcss", "three.js", "vite"],
-  "backend":    ["node.js", "fastapi", "express", "mongodb", "postgresql"],
-  "ml":         ["pytorch", "tensorflow", "opencv", "groq", "llama-3.1"],
-  "tools":      ["git", "docker", "vercel", "figma", "linux", "vscode"]
-}
-```
+---
 
-<br/>
-
-## `$ fetch --stats`
+## 📊 GitHub Stats:
 
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Swapnil-Ghosh06&theme=tokyonight" height="160"/>
@@ -83,19 +58,31 @@ a1c9f2e  (HEAD) drishti-ai        Grand Finalist — KSP × Hack2Skill Datathon 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Swapnil-Ghosh06&theme=tokyonight&utcOffset=5.5" height="160"/>
 </p>
 
+---
+
+## 🔥 Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Swapnil-Ghosh06&theme=gotham)](https://git.io/streak-stats)
 
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Swapnil-Ghosh06&theme=tokyo-night&hide_border=true&area=true)
+---
 
-<br/>
 
-## `$ contact --send`
 
-```
-linkedin  → https://linkedin.com/in/ghoshswapnil
-github    → https://github.com/Swapnil-Ghosh06
-email     → swaapnil.ghosh@gmail.com
-status    → open to internships, hackathon teams, anything ambitious
-```
+## 📬 Let's connect
 
-<div align="center"><sub><code>EOF</code></sub></div>
+Open to internships, collabs & hackathon teammates.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghoshswapnil/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swaapnil.ghosh@gmail.com)
+
+---
+
+<div align="center">
+
+**Open to internships · hackathon teammates · collabs on anything ambitious**
+
+*"Ship first. Optimize later. Always be building."*
+
+</div>
+
