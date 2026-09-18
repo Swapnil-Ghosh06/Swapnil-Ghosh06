@@ -1,104 +1,92 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=220&section=header&text=SWAPNIL%20GHOSH&fontSize=52&fontColor=DC143C&fontAlignY=42&animation=fadeIn&desc=Architect%20of%20Autonomous%20Systems&descAlignY=62&descSize=18&descColor=999999" width="100%"/>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Cinzel&size=22&pause=1500&color=DC143C&center=true&vCenter=true&width=650&lines=Every+clean+repo+starts+with+a+name+carefully+written.;I+don't+build+demos.+I+build+verdicts.;Ship+first.+Judge+later." />
+# Swapnil Ghosh
+
+**Building AI systems that behave like products, not demos**
+
+<sub>B.Tech CSE (AI &amp; ML), Jain University, Bengaluru · Class of 2029</sub>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Swapnil-Ghosh06&color=2E86AB&style=flat-square&label=PROFILE+VIEWS" height="22"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/-000000?style=for-the-badge" height="2" width="500"/>
+<a href="https://www.linkedin.com/in/ghoshswapnil/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/></a>&nbsp;&nbsp;
+<a href="https://github.com/Swapnil-Ghosh06"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40"/></a>&nbsp;&nbsp;
+<a href="mailto:swaapnil.ghosh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/></a>
 
 </div>
 
 <br/>
 
-<table align="center">
-<tr>
-<td align="center" width="100%">
+## About
 
-### ⛧ &nbsp; T H E &nbsp; R U L E S &nbsp; ⛧
-
-<sub>
-
-**I.** B.Tech CSE (AI &amp; ML), Jain University · Class of 2029 · Bengaluru
-**II.** Long game: ML Engineer at a top-tier lab by 2030
-**III.** Everything shipped is built to read like a funded startup, never a class assignment
-**IV.** No demos. Only systems that survive contact with a judge, a user, or a deadline
-
-</sub>
-
-</td>
-</tr>
-</table>
+I build fast, production-quality AI/ML tools that read like funded startup products. Long-term target: ML Engineer at a top-tier lab by 2030. Right now, focused on autonomous agents, multi-agent systems, and applied ML.
 
 <br/>
 
-## ⛧ &nbsp; CURRENTLY &nbsp; ⛧
+## Currently
 
-<table>
-<tr><td>🏛️</td><td><b>KSP × Hack2Skill Datathon 2026</b></td><td>Grand Finalist — <i>DRISHTI AI</i>, a crime-intelligence &amp; geo-trail analysis platform. Finale: 18 Sept, Four Seasons Bengaluru.</td></tr>
-<tr><td>🕯️</td><td><b>TechNova: Igniting Brilliance S3</b></td><td>Reached the Grand Master round — <i>CrowdShield</i>, an AI crowd-crush prediction system. Led development &amp; deployment.</td></tr>
-<tr><td>🗡️</td><td><b>Odoo Hackathon 2026 Grand Finale</b></td><td>Advanced from ~20,000 teams to the top 800 — <i>Urban Furniture</i>, a full ERP + 3D showroom for furniture businesses.</td></tr>
-<tr><td>📓</td><td><b>Turing Club</b></td><td>Active member — running competitions, chasing the tech team.</td></tr>
-</table>
-
-<br/>
-
-## ⛧ &nbsp; VERDICTS &nbsp; ⛧
-<sub>projects shipped, not just started</sub>
+| | |
+|---|---|
+| 🏛️ **KSP × Hack2Skill Datathon 2026** | Grand Finalist — *DRISHTI AI*, a crime-intelligence platform. Finale: 18 Sept, Four Seasons Bengaluru. |
+| 🛡️ **TechNova: Igniting Brilliance S3** | Reached the Grand Master round — *CrowdShield*, an AI crowd-crush prediction system. Led dev &amp; deployment. |
+| 🪑 **Odoo Hackathon 2026 Grand Finale** | Advanced from ~20,000 teams to the top 800 — *Urban Furniture*, a full ERP + 3D showroom. |
+| 📌 **Turing Club** | Active member, running competitions. |
 
 <br/>
 
-<table>
-<tr><td width="24%"><b>🌿 EcoSphere</b></td><td>ESG compliance + gamification platform. Frontend Lead, Odoo Hackathon 2K26 — 8-hour sprint.</td><td><sub>React 19 · TS · Zustand · Prisma · PostgreSQL</sub></td></tr>
-<tr><td><b>🔎 REPO-LENS</b></td><td>Chrome extension — chat with any GitHub repo via RAG, without leaving GitHub.</td><td><sub>FastAPI · ChromaDB · Gemini · Cloudflare Workers</sub></td></tr>
-<tr><td><b>🌐 PersonaNet / PolicySim</b></td><td>Emergent social dynamics across 50 AI personas reacting to policy events.</td><td><sub>Next.js 14 · Groq Llama 3.1 · NetworkX</sub></td></tr>
-<tr><td><b>🛡️ CrowdShield</b></td><td>Digital-twin crowd simulation + real-time density &amp; threat detection to prevent stampedes.</td><td><sub>TechNova S3 · Grand Master Round</sub></td></tr>
-<tr><td><b>🏛️ DRISHTI AI</b></td><td>Crime mapping, surveillance insight &amp; geo-trail analysis for law enforcement.</td><td><sub>KSP Datathon 2026 · Grand Finalist</sub></td></tr>
-<tr><td><b>🪑 Urban Furniture</b></td><td>ERP + accounting + AI CFO Copilot + voice-to-bill invoicing + interactive 3D configurator.</td><td><sub>Odoo Grand Finale · Top 800/20,000</sub></td></tr>
-<tr><td><b>💸 BrokeBoy</b></td><td>Student expense tracker — dark glassmorphism, ₹ formatting, budget analytics.</td><td><sub>React · Node · MongoDB</sub></td></tr>
-<tr><td><b>✍️ Scriptmind</b></td><td>AI that replicates a student's handwriting — text to handwritten PDF.</td><td><sub>Python</sub></td></tr>
-<tr><td><b>🚸 Smart Traffic Controller</b></td><td>Interactive traffic simulation with lane logic &amp; mode-based behaviour.</td><td><sub>React · Node · shadcn/ui</sub></td></tr>
-<tr><td><b>💡 IdeaFlow</b></td><td>189-frame canvas animation, lerp-scroll startup idea validator.</td><td><sub>Vanilla JS</sub></td></tr>
-<tr><td><b>🔗 LinkSnap</b></td><td>Zero-backend URL shortener — auth, analytics, all in localStorage.</td><td><sub>Single-file HTML/JS</sub></td></tr>
-<tr><td><b>📡 LIDAR Sim</b></td><td>Raycasting point-cloud simulation of a 4-way intersection, pedestrian-safety framing.</td><td><sub>Three.js</sub></td></tr>
-</table>
+## Projects
 
-<br/>
+| Project | What it does | Stack |
+|---|---|---|
+| 🌿 **EcoSphere** | ESG compliance + gamification platform — Frontend Lead, Odoo Hackathon 2K26 (8-hr sprint) | React 19 · TS · Zustand · Prisma · PostgreSQL |
+| 🏛️ **DRISHTI AI** | Crime mapping, surveillance insight &amp; geo-trail analysis — KSP Datathon Grand Finalist | Python · ML |
+| 🛡️ **CrowdShield** | Digital-twin crowd simulation, real-time density &amp; threat detection to prevent stampedes | TechNova S3 · Grand Master Round |
+| 🪑 **Urban Furniture** | ERP + accounting + AI CFO Copilot + voice-to-bill invoicing + 3D room configurator | Odoo Grand Finale · Top 800/20,000 |
+| 🔎 **[Repo Lens](https://github.com/Swapnil-Ghosh06/REPO-LENS)** | Chrome extension — chat with any GitHub repo via RAG, without leaving GitHub | FastAPI · ChromaDB · Gemini |
+| 🌐 **[PersonaNet / PolicySim](https://personanet.vercel.app)** | 50 AI personas with emergent social dynamics reacting to policy events | Next.js 14 · Groq Llama 3.1 · NetworkX |
+| 💸 **[BrokeBoy](https://brokeboy.vercel.app)** | Student expense tracker — dark glassmorphism, ₹ formatting, budget analytics | React · Node · MongoDB |
+| ✍️ **Scriptmind** | AI that replicates a student's handwriting — text to handwritten PDF | Python |
+| 🚸 **Smart Traffic Controller** | Interactive traffic simulation with lane logic &amp; mode-based behaviour | React · Node · shadcn/ui |
+| 💡 **IdeaFlow** | 189-frame canvas animation, lerp-scroll startup idea validator | Vanilla JS |
+| 🔗 **LinkSnap** | Zero-backend URL shortener — auth, analytics, all in localStorage | Single-file HTML/JS |
+| 📡 **LIDAR Sim** | Raycasting point-cloud simulation of a 4-way intersection, pedestrian-safety framing | Three.js |
 
-<div align="center">
 <sub>🏆 2nd place — LOLgorithm 2026 &nbsp;·&nbsp; 4 shipped in a day — Vibeathon 2026 &nbsp;·&nbsp; SIH 2025 Selection — InternFox</sub>
-</div>
-
-<br/>
-
-## ⛧ &nbsp; ARSENAL &nbsp; ⛧
-
-<br/>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=py,cpp,js,ts&theme=dark" height="55"/>
-</p>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,vite&theme=dark" height="55"/>
-</p>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,express,mongodb,postgres&theme=dark" height="55"/>
-</p>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" height="55"/>
-</p>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,docker,vercel,netlify,figma,linux,vscode&theme=dark" height="55"/>
-</p>
-
-<sub align="center">also fluent in Groq · Llama 3.1 · RAG pipelines · prompt engineering</sub>
 
 <br/><br/>
 
-## ⛧ &nbsp; THE LEDGER &nbsp; ⛧
+## Tech Stack
+
+<br/>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=py,cpp,js,ts&theme=dark" height="50"/>
+</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,vite&theme=dark" height="50"/>
+</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,express,mongodb,postgres&theme=dark" height="50"/>
+</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" height="50"/>
+</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,docker,vercel,netlify,figma,linux,vscode&theme=dark" height="50"/>
+</p>
+
+<sub align="center">also: Groq · Llama 3.1 · RAG pipelines · prompt engineering</sub>
+
+<br/><br/>
+
+## GitHub Stats
 
 <br/>
 
@@ -120,20 +108,11 @@
 
 <div align="center">
 
-## ⛧ &nbsp; SUMMON ME &nbsp; ⛧
+**Open to internships · hackathon teams · anything ambitious**
 
-<sub>open to internships · hackathon teams · anything worth staying up for</sub>
+<br/>
 
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/ghoshswapnil/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=DC143C" height="45"/></a>&nbsp;&nbsp;
-<a href="https://github.com/Swapnil-Ghosh06"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="45"/></a>&nbsp;&nbsp;
-<a href="mailto:swaapnil.ghosh@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=DC143C" height="45"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Swapnil-Ghosh06&color=8B0000&style=for-the-badge&label=EYES+ON+THIS+PAGE" height="28"/>
+<a href="https://www.linkedin.com/in/ghoshswapnil/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="42"/></a>&nbsp;&nbsp;
+<a href="mailto:swaapnil.ghosh@gmail.com"><img src="https://img.shields.io/badge/Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="42"/></a>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:000000&height=120&section=footer" width="100%"/>
