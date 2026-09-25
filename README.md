@@ -50,14 +50,13 @@ production-quality tools that read like funded startup products.
 ## 🛠 Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,python,nodejs,fastapi,mongodb,tailwind,threejs,nextjs,git,figma,vite&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,ts,js,python,nodejs,express,fastapi,postgres,mongodb,docker,tailwind,threejs,nextjs,git,figma,vite&theme=dark" />
   </a>
 </p>
 
-**AI / ML:** Groq · Llama 3.1 · RAG Pipelines · Prompt Engineering · NetworkX · Pandas · NumPy
+**AI / ML:** Groq · Llama 3.1 · Gemini · RAG Pipelines · Prompt Engineering · NetworkX · Pandas · NumPy
 
-**Tools:** Git · Vercel · Netlify · Vite · Figma · Claude Code · Antigravity · Cursor
-
+**Tools:** Git · Docker · Vercel · Netlify · Cloudflare Workers · Vite · Figma · Claude Code · Antigravity · Cursor
 ---
 
 ## 📊 GitHub Stats:
