@@ -7,12 +7,22 @@
 I build things at the intersection of AI systems and product — fast-shipped,
 production-quality tools that read like funded startup products.
 
-1st-year B.Tech CSE (AI/ML) @ Jain University · Aiming for MLE @ MANGO by 2030
+2nd-year B.Tech CSE (AI/ML) @ Jain University · Aiming for MLE @ MANGO by 2030
 
 ---
 
+## 🏆 Recent Highlights
 
+<br/>
 
+<table>
+<tr><td width="30%"><b>🚨 DRISHTI AI</b></td><td>KSP Datathon 2026 (Karnataka State Police × Hack2Skill, powered by Zoho) — <b>Grand Finalist</b> out of thousands, ₹10L reward pool. Crime mapping, surveillance insights, geo-trail analysis.</td></tr>
+<tr><td><b>🛡️ CrowdShield</b></td><td>TechNova: Igniting Brilliance S3 (ESSPL) — reached the <b>Grand Master finals</b>. Led dev &amp; deployment of an AI crowd-safety platform: digital-twin simulation, real-time density/movement analysis, predictive threat detection.</td></tr>
+<tr><td><b>🪑 Urban Furniture</b></td><td>Odoo Hackathon 2026 Grand Finale (Gandhinagar) — advanced from ~20,000 teams to the <b>top 800</b>. Full ERP/accounting suite with AI CFO Copilot, voice-to-bill invoicing, 3D showroom configurator.</td></tr>
+<tr><td><b>🏔️ Thermal Shelter Model</b></td><td>Smart India Hackathon 2026, DRDO problem statement (PS 26051) — building a software model for passive thermal-comfort shelter design in high-altitude Ladakh.</td></tr>
+</table>
+
+<br/>
 
 ## ›› Projects
 
@@ -33,7 +43,7 @@ production-quality tools that read like funded startup products.
 
 <br/>
 
-<sub>🏆 2nd place — LOLgorithm 2026 (Team AKATSUKI) &nbsp;&nbsp;·&nbsp;&nbsp; 4 deployed projects — Vibeathon 2026</sub>
+<sub>🥈 2nd place — LOLgorithm 2026 (Team AKATSUKI) &nbsp;&nbsp;·&nbsp;&nbsp; 🏆 Grand Finalist — KSP Datathon 2026 (DRISHTI AI) &nbsp;&nbsp;·&nbsp;&nbsp; 🏅 Grand Master finals — TechNova S3 (CrowdShield) &nbsp;&nbsp;·&nbsp;&nbsp; 🚀 Top 800/20,000 — Odoo Hackathon 2026 Grand Finale &nbsp;&nbsp;·&nbsp;&nbsp; 4 deployed projects — Vibeathon 2026</sub>
 
 <br/><br/>
 
@@ -44,7 +54,7 @@ production-quality tools that read like funded startup products.
   </a>
 </p>
 
-**AI / ML:** Groq · Llama 3.1 · RAG Pipelines · Prompt Engineering · NetworkX · Pandas · NumPy -
+**AI / ML:** Groq · Llama 3.1 · RAG Pipelines · Prompt Engineering · NetworkX · Pandas · NumPy
 
 **Tools:** Git · Vercel · Netlify · Vite · Figma · Claude Code · Antigravity · Cursor
 
@@ -85,4 +95,3 @@ Open to internships, collabs & hackathon teammates.
 *"Ship first. Optimize later. Always be building."*
 
 </div>
-
