@@ -7,7 +7,7 @@
 I build things at the intersection of AI systems and product — fast-shipped,
 production-quality tools that read like funded startup products.
 
-2nd-year B.Tech CSE (AI/ML) @ Jain University · Aiming for MLE @ MANGO by 2030
+2nd-year B.Tech CSE (AI/ML) @ Jain University · Aiming for MLE @ MANGO by 2030.
 
 ---
 
