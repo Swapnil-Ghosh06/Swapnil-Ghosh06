@@ -186,4 +186,4 @@
 
 <hr/>
 
-<h4 align="center">made with <img src=".github/assets/hearts_gif.gif" width="25" height="25"/> by <a href="https://github.com/Swapnil-Ghosh06">swapnil</a></h4>
+<h4 align="center">Made with <img src=".github/assets/hearts_gif.gif" width="25" height="25"/> by <a href="https://github.com/Swapnil-Ghosh06">Swapnil Ghosh</a></h4>
