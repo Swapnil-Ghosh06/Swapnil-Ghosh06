@@ -179,6 +179,28 @@
 
 <hr/>
 
+<h2 align="center">⌘ Commit Activity</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Swapnil-Ghosh06/Swapnil-Ghosh06/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Swapnil-Ghosh06/Swapnil-Ghosh06/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/Swapnil-Ghosh06/Swapnil-Ghosh06/output/pacman-contribution-graph-dark.svg" alt="Pac-Man Contribution Graph" />
+  </picture>
+</p>
+
+<hr/>
+
+<h2 align="center">⌘ Philosophy</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" />
+</p>
+
+<hr/>
+
 <h2 align="center">🤝 Connect</h2>
 
 <p align="center">
