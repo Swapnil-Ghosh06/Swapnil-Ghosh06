@@ -15,11 +15,11 @@
 ### 👋 Hey, I'm Swapnil
 
 I turn 24-hour hackathon sprints into products that look funded.
-In the last few months that meant a **Grand Finalist** run at the Karnataka State Police datathon, a **top 800 finish out of ~20,000 teams** at Odoo, and a **Grand Master finals** spot at TechNova.
+Recently that meant a **Grand Finalist** run at the Karnataka State Police datathon, a **top 800 finish out of ~20,000 teams** at Odoo, and a **Grand Master finals** spot at TechNova.
 
-Second-year **B.Tech CSE (AI & ML)** at Jain University, Bengaluru. I speak English, Hindi, Bengali and Tamil, and I'm conversational in Odia.
+Second-year **B.Tech CSE (AI & ML)** at Jain University, Bengaluru. English, Hindi, Bengali and Tamil, plus conversational Odia.
 
-I lead development, deployment and the frontend, so ideas leave the whiteboard and reach a live URL.
+I lead development, deployment and frontend, so ideas leave the whiteboard and reach a live URL.
 
 </td>
 <td width="190" align="center" valign="middle">
@@ -30,7 +30,25 @@ I lead development, deployment and the frontend, so ideas leave the whiteboard a
 
 <br/>
 
-## 🏆 Hall of Fame
+<!-- Swap the avatar for your own artwork later: upload assets/profile.png and change this src to assets/profile.png -->
+<img align="right" width="240" src="https://github.com/Swapnil-Ghosh06.png" alt="Swapnil"/>
+
+<p align="center">
+  <br/>
+  <img src="assets/stats.svg" width="400px"/>
+  <img src="assets/top-langs.svg" width="400px"/>
+  <img src="https://streak-stats.demolab.com/?user=Swapnil-Ghosh06&count_private=true&background=0E1116&ring=FFB547&fire=FF7A59&currStreakLabel=2DD4BF&currStreakNum=FFFFFF&sideLabels=C9D1D9&sideNums=FFFFFF&dates=8B949E&border=1F2933&stroke=1F2933&border_radius=14" width="400px" height="170"/>
+  <img src="assets/metrics-stats.svg" width="400px"/>
+  <img src="assets/metrics-repository.svg" width="400px"/>
+  <img src="assets/metrics-activity.svg" width="400px"/>
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Swapnil-Ghosh06&bg_color=0E1116&color=2DD4BF&line=FFB547&point=FFFFFF&area=true&area_color=2DD4BF&hide_border=true&custom_title=Contribution%20Pulse" width="100%"/>
+<br clear="both" />
+
+---
+
+<h2 align="center">🏆 Hall of Fame</h2>
 
 <div align="center">
 <img src="assets/hall-of-fame.svg" width="100%" alt="Hackathon achievements"/>
@@ -43,13 +61,13 @@ I lead development, deployment and the frontend, so ideas leave the whiteboard a
 <td width="50%" valign="top">
 
 **🚨 DRISHTI AI** · KSP Datathon 2026
-Picked as a Grand Finalist by Karnataka State Police × Hack2Skill (powered by Zoho) from thousands of teams. Turns raw crime data into maps, surveillance insights and geo-trails that an officer can act on. Finale: 29 Oct 2026, Bengaluru.
+Grand Finalist pick by Karnataka State Police × Hack2Skill (powered by Zoho). Turns raw crime data into maps, surveillance insights and geo-trails an officer can act on. Finale: 29 Oct 2026, Bengaluru.
 
 </td>
 <td width="50%" valign="top">
 
 **🛡️ CrowdShield** · TechNova S3
-Led development and deployment of an AI platform that spots stampede risk before it happens: digital-twin simulation, live density tracking and predictive threat alerts. Qualified through to the Grand Master finals.
+Led development and deployment of an AI platform that spots stampede risk early: digital-twin simulation, live density tracking, predictive alerts. Reached the Grand Master finals.
 
 </td>
 </tr>
@@ -57,13 +75,13 @@ Led development and deployment of an AI platform that spots stampede risk before
 <td valign="top">
 
 **🪑 Urban Furniture** · Odoo Hackathon 2026
-Out of ~20,000 teams to the top 800 and the Gandhinagar finale. A full ERP with GST, Razorpay, an AI CFO Copilot, voice-to-bill invoicing and a 3D showroom.
+~20,000 teams down to the top 800 and the Gandhinagar finale. Full ERP with GST, Razorpay, an AI CFO Copilot, voice-to-bill invoicing and a 3D showroom.
 
 </td>
 <td valign="top">
 
 **🏔️ Thermal Shelter Model** · Smart India Hackathon 2026
-DRDO problem statement PS 26051: a software model for passive thermal-comfort shelter design in high-altitude Ladakh.
+DRDO problem statement PS 26051: software model for passive thermal-comfort shelter design in high-altitude Ladakh.
 
 </td>
 </tr>
@@ -71,82 +89,68 @@ DRDO problem statement PS 26051: a software model for passive thermal-comfort sh
 
 <br/>
 
-## 🛰️ Right now
+**🛰️ Right now:** KSP grand finale (29 Oct) · SIH thermal shelter model · NASA Space Apps · Nebius × NVIDIA AI Hackathon · GDG on Campus FET Jain Lead 2026–27
 
-- 🏁 **KSP Datathon grand finale** with DRISHTI AI, 29 October, Bengaluru
-- 🏔️ **Smart India Hackathon** with the DRDO thermal shelter model
-- 🌌 **NASA Space Apps Challenge** and the **Nebius × NVIDIA Global AI Hackathon**
-- 🎓 **GDG on Campus FET Jain**, Lead for 2026–27
+---
 
-<br/>
-
-## 🧪 Things I've built
+<h2 align="center">🧪 Things I've built</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🌿 EcoSphere-ESG**
-Real-time ESG compliance with gamification, built in an 8-hour Odoo sprint.
+**🌿 EcoSphere-ESG**: real-time ESG compliance with gamification, built in an 8-hour Odoo sprint.
 <sub>React 19 · TypeScript · Node · Prisma · PostgreSQL</sub>
 
-**🔍 Repo Lens**
-Chat with any GitHub repo without leaving GitHub, as a Chrome extension.
+**🔍 Repo Lens**: chat with any GitHub repo without leaving GitHub.
 <sub>FastAPI · ChromaDB · Gemini · Chrome MV3</sub>
 
-**🌐 PersonaNet / PolicySim**
-50 AI personas that react to policy events and develop social dynamics on their own.
+**🌐 PersonaNet / PolicySim**: 50 AI personas reacting to policy events with emergent social dynamics.
 <sub>Next.js 14 · Groq Llama 3.1 · NetworkX</sub>
 
-**🤖 GhostEmployee**
-An AI teammate that schedules work proactively instead of waiting for a prompt.
+**🤖 GhostEmployee**: an AI teammate that schedules work proactively.
 <sub>FastAPI · Slack Bot · React · GSAP</sub>
 
-**📡 LIDAR Simulation**
-Raycast point-cloud view of an urban intersection, framed around pedestrian safety.
+**📡 LIDAR Simulation**: raycast point-cloud view of an urban intersection.
 <sub>Three.js</sub>
 
 </td>
 <td width="50%" valign="top">
 
-**⚡ Vibeathon 2026: 4 products, 1 day**
-LinkSnap, IdeaFlow, a TapNex RAG chatbot and a pixel-clone, all deployed.
+**⚡ Vibeathon 2026**: 4 products deployed in one day (LinkSnap, IdeaFlow, TapNex RAG chatbot, a pixel-clone).
 
-**💡 IdeaFlow**
-Awwwards-style startup idea validator with a 189-frame scroll animation.
+**💡 IdeaFlow**: Awwwards-style idea validator, 189-frame scroll animation.
 <sub>Vanilla JS · canvas · lerp scroll</sub>
 
-**🔗 LinkSnap**
-URL shortener with auth and analytics and no backend at all.
+**🔗 LinkSnap**: URL shortener with auth and analytics, zero backend.
 <sub>Single-file HTML/JS</sub>
 
-**💸 BrokeBoy** · **📚 SAGE EdTech** · **🚸 Smart Traffic Controller**
-Expense tracker with dark glassmorphism, a study platform with streaks, and a traffic simulation with lane logic.
+**💸 BrokeBoy · 📚 SAGE EdTech · 🚸 Smart Traffic Controller**: expense tracker, study platform with streaks, traffic simulation.
 <sub>React · Node · shadcn/ui</sub>
 
-**🚂 RAG Chatbot**
-Client-side RAG with chunk scoring and out-of-scope detection.
-<sub>Groq · Llama 3.1 · zero-dependency HTML</sub>
+**🚂 RAG Chatbot**: client-side RAG with out-of-scope detection.
+<sub>Groq · Llama 3.1</sub>
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-## 🛠 Toolbox
+<h2 align="center">🛠 Languages · Frameworks · Tools</h2>
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=react,ts,js,python,nodejs,express,fastapi,nextjs,tailwind,threejs&theme=dark" /><br/>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,docker,git,github,vite,figma,vercel,netlify,cloudflare&theme=dark" />
+</div>
 
-<br/><br/>
+<br/>
+
+<div align="center">
 
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Llama 3.1](https://img.shields.io/badge/Llama_3.1-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-2DD4BF?style=for-the-badge&logoColor=0E1116)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -156,35 +160,20 @@ Client-side RAG with chunk scoring and out-of-scope detection.
 
 <br/>
 
-## 🏅 Trophies &amp; Stats
-
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Swapnil-Ghosh06&theme=onedark&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" />
 
-<br/>
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Swapnil-Ghosh06&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&bg_color=0E1116&title_color=FFB547&icon_color=2DD4BF&text_color=C9D1D9&border_color=1F2933&border_radius=14" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil-Ghosh06&layout=compact&langs_count=8&bg_color=0E1116&title_color=FFB547&text_color=C9D1D9&border_color=1F2933&border_radius=14" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Swapnil-Ghosh06&background=0E1116&ring=FFB547&fire=FF7A59&currStreakLabel=2DD4BF&currStreakNum=FFFFFF&sideLabels=C9D1D9&sideNums=FFFFFF&dates=8B949E&border=1F2933&stroke=1F2933&border_radius=14" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Swapnil-Ghosh06&bg_color=0E1116&color=2DD4BF&line=FFB547&point=FFFFFF&area=true&area_color=2DD4BF&hide_border=true&custom_title=Contribution%20Pulse" width="100%" />
-
 </div>
-
-<br/>
 
 <!-- ═════════ PHOTOS ═════════
   Upload your photos to the assets/ folder with EXACTLY the names used below,
   then remove the opening comment marker at the top of this block and the
   closing comment marker at the very end of it to switch the section on.
 
-## 📸 Moments
+---
+
+<h2 align="center">📸 Moments</h2>
 
 <table>
 <tr>
@@ -198,7 +187,7 @@ Client-side RAG with chunk scoring and out-of-scope detection.
 </table>
 -->
 
-## 📬 Let's build something
+---
 
 <div align="center">
 
@@ -210,6 +199,6 @@ Client-side RAG with chunk scoring and out-of-scope detection.
 
 *"Ship first. Optimize later. Always be building."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Swapnil-Ghosh06&label=VISITORS&color=2DD4BF&style=flat-square)
+![Visitors](https://komarev.com/ghpvc/?username=Swapnil-Ghosh06&label=VISITORS&color=2DD4BF&style=flat-square)
 
 </div>
