@@ -1,165 +1,140 @@
-<p align="center">
-  <img src=".github/assets/ken.gif" width="100%" alt="Ken Kaneki Banner" />
-</p>
-
-<h1 align="center">Swapnil Ghosh</h1>
+<img align='right' width="260" src='.github/assets/kenkankei_cmp.png'>
 
 <p align="center">
-  <b>2nd-year B.Tech CSE (AI &amp; ML) @ Jain University, Bengaluru</b><br/>
-  <i>Aiming for Machine Learning Engineer by 2030 &nbsp;·&nbsp; Building AI Systems &amp; Autonomous Agents</i>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ghoshswapnil/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="mailto:swaapnil.ghosh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  &nbsp;
-  <a href="https://github.com/Swapnil-Ghosh06"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
----
-
-<img align="right" width="260" src=".github/assets/kenkankei_cmp.png" alt="Ken Kaneki">
-
-<p align="center">
-  <br/>
-  <!-- Waifu Profile Views Counter (Moe-Counter moebooru) -->
-  <img src="https://count.getloli.com/@Swapnil-Ghosh06?name=Swapnil-Ghosh06&theme=moebooru&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=auto&num=985" width="400px" alt="Profile Views" />
   <br/><br/>
-  <img height="175" src="https://streak-stats.demolab.com?user=Swapnil-Ghosh06&count_private=true&theme=midnight-purple&hide_border=true" width="400px" alt="GitHub Streak" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Swapnil-Ghosh06&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" width="400px" alt="GitHub Stats" />
-  <br/>
-  <img width="400px" src=".github/assets/metrics-stats.svg" alt="Metrics Stats" />
-  <img width="400px" src=".github/assets/metrics-repository.svg" alt="Metrics Repository" />
-  <br/>
-  <img width="800px" src=".github/assets/metrics-activity.svg" alt="Activity Calendar" />
+  <img src='https://count.getloli.com/@Swapnil-Ghosh06?name=Swapnil-Ghosh06&theme=moebooru&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=0' width="400px">
+  <img height="170" src="https://streak-stats.demolab.com?user=Swapnil-Ghosh06&count_private=true&theme=midnight-purple&hide_border=true&v122" width="400px"/>
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Swapnil-Ghosh06&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="400px" src=".github/assets/metrics-stats.svg" />
+  <img width="400px" src=".github/assets/metrics-repository.svg" />
+  <img width="400px" src=".github/assets/metrics-activity.svg" />
 </p>
 
 <br clear="both" />
 
 ---
 
-<h2 align="center">Languages-Frameworks-Tools</h2>
+<h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
 
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="python" />
+         <img src="https://skillicons.dev/icons?i=azure" width="40" height="40" alt="azure" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="c" />
+         <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="cpp" />
+         <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="c" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="java" />
+         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="40" height="40" alt="cpp" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=rust" width="40" height="40" alt="rust" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="40" height="40" />
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="html" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="js" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="ts" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="react" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="nextjs" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="nodejs" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="express" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="fastapi" />
+        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
     </td>
   </tr>
 
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=django" width="40" height="40" alt="django" />
+        <img src="https://skillicons.dev/icons?i=rust" width="40" height="40" alt="rust" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="tailwind" />
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="django" width="40" height="40" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="40" height="40" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=threejs" width="40" height="40" alt="threejs" />
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="40" height="40" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="postgres" />
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="40" height="40" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="mysql" />
+        <img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="bash" />
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="mongodb" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=prisma" width="40" height="40" alt="prisma" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="docker" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="git" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="github" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=gitlab" width="40" height="40" alt="gitlab" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="linux" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="vscode" />
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="vscode" />
     </td>
   </tr>
 
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vite" width="40" height="40" alt="vite" />
+        <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="figma" />
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40" alt="react" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vercel" width="40" height="40" alt="vercel" />
+        <img src="https://skillicons.dev/icons?i=gitlab" width="40" height="40" alt="gitlab" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=netlify" width="40" height="40" alt="netlify" />
+        <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="java" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cloudflare" width="40" height="40" alt="cloudflare" />
+        <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="linux" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=azure" width="40" height="40" alt="azure" />
+        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="nodejs" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="postman" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="40" height="40" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="40" height="40" alt="typescript" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="nextjs" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="fastapi" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="tailwind" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=threejs" width="40" height="40" alt="threejs" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="mongodb" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=prisma" width="40" height="40" alt="prisma" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="git" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vite" width="40" height="40" alt="vite" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="figma" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vercel" width="40" height="40" alt="vercel" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=netlify" width="40" height="40" alt="netlify" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cloudflare" width="40" height="40" alt="cloudflare" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="40" height="40" alt="aws" />
     </td>
   </tr>
 </table>
@@ -169,7 +144,7 @@
 ---
 
 <div align="center">
-  <h2>🏆 Hackathons &amp; Competitions 🏆</h2>
+  <h2 align="center">🏆 Hackathons &amp; Competitions 🏆</h2>
   <br/>
 
   <b>11 events · 3 finals · 2 podium finishes (🥇 CRCE, 🥉 TechNova) · 1 grand finale pending (KSP Datathon)</b>
@@ -195,7 +170,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🧪 Selected projects 🧪</h2>
+  <h2 align="center">🧪 Selected projects 🧪</h2>
 
   <b>EcoSphere</b> · <b>DRISHTI AI</b> · <b>CrowdShield</b> · <b>CareBridge</b> · <b>Urban Furniture</b> · <b>Repo Lens</b> · <b>PersonaNet / PolicySim</b> · <b>GhostEmployee</b> · <b>IdeaFlow</b> · <b>LinkSnap</b>
   <br/><br/>
