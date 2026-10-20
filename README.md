@@ -166,7 +166,14 @@
 | **Nebius × NVIDIA Global AI Hackathon** | n/a | n/a | 🔥 In progress · submission due 30 Oct |
 
 </div>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/ghoshswapnil/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="mailto:swaapnil.ghosh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://discord.com/users/your_id"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
+  
 <hr/>
 
 <div align="center">
