@@ -2,7 +2,7 @@
 
 <p align="center">
   <br/><br/>
-  <img src='https://count.getloli.com/@Swapnil-Ghosh06?name=Swapnil-Ghosh06&theme=moebooru&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=0' width="400px">
+  <img src='https://count.getloli.com/@Swapnil-Ghosh06?name=Swapnil-Ghosh06&theme=booru-lewd&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=0' width="400px">
   <img height="170" src="https://streak-stats.demolab.com?user=Swapnil-Ghosh06&count_private=true&theme=midnight-purple&hide_border=true&v122" width="400px"/>
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Swapnil-Ghosh06&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" />
   <img width="400px" src=".github/assets/metrics-stats.svg" />
@@ -166,14 +166,7 @@
 | **Nebius × NVIDIA Global AI Hackathon** | n/a | n/a | 🔥 In progress · submission due 30 Oct |
 
 </div>
-<p align="center">
-  <a href="https://www.linkedin.com/in/ghoshswapnil/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  &nbsp;
-  <a href="mailto:swaapnil.ghosh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://discord.com/users/your_id"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-</p>
-  
+
 <hr/>
 
 <div align="center">
@@ -183,6 +176,26 @@
   <br/><br/>
   <a href="https://github.com/Swapnil-Ghosh06?tab=repositories">Browse all repositories →</a>
 </div>
+
+<hr/>
+
+<h2 align="center">🤝 Connect</h2>
+
+<p align="center">
+  <a href="https://github.com/Swapnil-Ghosh06">
+    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ghoshswapnil">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:swaapnil.ghosh@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail" />
+  </a>
+</p>
+
+<br/>
 
 <hr/>
 
