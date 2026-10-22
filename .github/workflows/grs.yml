@@ -2,7 +2,7 @@ name: GitHub Readme Stats
 
 on:
     schedule:
-        - cron: "10 * * * *"
+        - cron: "0 */5 * * *"
     workflow_dispatch:
 
 permissions:
