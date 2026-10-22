@@ -2,7 +2,7 @@ name: Generate Pac-Man contribution graph
 
 on:
   schedule:
-    - cron: "40 */5 * * *"
+    - cron: "40 * * * *"
   workflow_dispatch:
   push:
     branches:
