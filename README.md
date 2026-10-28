@@ -159,7 +159,7 @@
 | **Smart India Hackathon 2026** (DRDO PS 26051) | THERMA | UI/UX Lead | ✅ Selected participant |
 | **Smart India Hackathon 2025** | InternFox | Full Stack Lead | ✅ Selected participant |
 | **Bharatiya Antariksh Hackathon** (ISRO × Hack2Skill) | Idea submission | n/a | ⭐ Shortlisted · out in Round 2 |
-| **Hack Spirit** (MAHE) | PRISM | Frontend Lead | Participant · Gemini AI + Google Cloud track |
+| **Hack Spirit** (MAHE) | PRISM | Frontend Lead | Participant · Gemini AI + Google Cloud track. |
 | **Manipal Hackathon 2026** | RippleGuard | Frontend / DevOps | Participant · cybersecurity track |
 | **Odoo × NMIT** | n/a | n/a | Participant |
 | **NASA Space Apps Challenge 2026** | Space Mission Design Game | n/a | 🔥 In progress |
