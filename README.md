@@ -172,7 +172,7 @@
 <div align="center">
   <h2 align="center">🧪 Selected projects 🧪</h2>
 
-  <b>EcoSphere</b> · <b>DRISHTI AI</b> · <b>CrowdShield</b> · <b>CareBridge</b> · <b>Urban Furniture</b> · <b>Repo Lens</b> · <b>PersonaNet / PolicySim</b> · <b>GhostEmployee</b> · <b>IdeaFlow</b> · <b>LinkSnap</b>
+  <b>EcoSphere</b> · <b>DRISHTI AI</b> · <b>CrowdShield</b> · <b>CareBridge</b> · <b>Urban Furniture.</b> · <b>Repo Lens</b> · <b>PersonaNet / PolicySim</b> · <b>GhostEmployee</b> · <b>IdeaFlow</b> · <b>LinkSnap</b>
   <br/><br/>
   <a href="https://github.com/Swapnil-Ghosh06?tab=repositories">Browse all repositories →</a>
 </div>
