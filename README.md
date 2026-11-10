@@ -144,7 +144,7 @@
 ---
 
 <div align="center">
-  <h2 align="center">🏆 Hackathons &amp; Competitions 🏆</h2>
+  <h2 align="center">🏆 Hackathons &amp; Competitions. 🏆</h2>
   <br/>
 
   <b>11 events · 3 finals · 2 podium finishes (🥇 CRCE, 🥉 TechNova) · 1 grand finale pending (KSP Datathon)</b>
