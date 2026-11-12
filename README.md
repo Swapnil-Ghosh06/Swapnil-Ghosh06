@@ -201,7 +201,7 @@
 
 <hr/>
 
-<h2 align="center">🤝 Connect</h2>
+<h2 align="center">🤝 Connect.</h2>
 
 <p align="center">
   <a href="https://github.com/Swapnil-Ghosh06">
