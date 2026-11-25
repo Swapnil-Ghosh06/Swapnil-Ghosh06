@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Swapnil Ghosh&#39;s GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 2, Total Commits  : 2012, Total PRs: 18, Total Issues: 1, Contributed to (last year): 13</desc>
+        <desc id="descId">Total Stars Earned: 2, Total Commits  : 2013, Total PRs: 18, Total Issues: 1, Contributed to (last year): 13</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 180.31208062306035;
+        stroke-dashoffset: 180.30488462209777;
       }
     }
   
